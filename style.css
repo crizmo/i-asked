@@ -76,6 +76,11 @@ blockquote p {
     margin-right: 250px;
 }
 
+img {
+    width: 20%;
+    height: auto;
+}
+
 @media screen and (min-width: 400px) {
 blockquote {
     display: table;
